@@ -1,0 +1,10 @@
+.clang_complete
+.gcc-flags.json
+.ccls
+.vscode
+
+**/build
+**/.DS_Store
+**/.cache/
+
+
