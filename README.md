@@ -166,7 +166,7 @@ We welcome contributions! Feel free to add new transport methods, controllers, o
 
 ## License
 
-This library is open-source and licensed under **MIT License**.
+This library is open-source and licensed under **Proprietary Software License**.
 
 ---
 
